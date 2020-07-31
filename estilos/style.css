@@ -8,8 +8,12 @@ body {
 
 }
 
+img.lado{
+    float: right;
+}
+
 main {
-    background-color: cornsilk;
+    background-color: rgb(247, 247, 247);
     width: 500px;
     margin: auto;
     padding: 10px;
